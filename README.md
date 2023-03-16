@@ -29,15 +29,13 @@
 - `git clone https://github.com/REFAT-156/REFAT-XD.git`
  
 - `cd REFAT-XD`
- 
-- `chmod 777 refat`
 
-- `./refat`
+- `python REFAT.py`
 
 ## Or Use This Single Command 💁
 ```ruby
 
-git clone https://github.com/REFAT-156/REFAT-XD && cd REFAT-XD && chmod 777 refat && ./refat
+git clone https://github.com/REFAT-156/REFAT-XD && cd REFAT-XD && python REFAT.py
 
 ```
 ## Find Me on :
