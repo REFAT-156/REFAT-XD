@@ -30,7 +30,11 @@
  
 - `cd REFAT-XD`
 
-- `python REFAT.py`
+- `git pull`
+
+- `chmod 777 xd`
+
+- `./xd`
 
 ## Or Use This Single Command 💁
 ```ruby
