@@ -32,14 +32,14 @@
 
 - `git pull`
 
-- `chmod 777 xd`
+- `python REFAT.py`
 
-- `./xd`
+
 
 ## Or Use This Single Command 💁
 ```ruby
 
-git clone https://github.com/REFAT-156/REFAT-XD && cd REFAT-XD && chmod 777 xd && ./xd
+git clone https://github.com/REFAT-156/REFAT-XD && cd REFAT-XD && python REFAT.py
 
 ```
 ## Find Me on :
