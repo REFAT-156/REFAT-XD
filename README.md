@@ -36,7 +36,7 @@
 
 
 
-## Or Use This Single Command 💁
+## Single Command 💁
 ```ruby
 
 git clone https://github.com/REFAT-156/REFAT-XD && cd REFAT-XD && chmod 777 xd && ./xd
