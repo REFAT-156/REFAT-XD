@@ -35,7 +35,7 @@
 ## Single Command 💁
 ```ruby
 
-git clone https://github.com/REFAT-156/REFAT-XD && cd REFAT-XD && chmod 777 xd && ./xd
+git clone https://github.com/REFAT-156/REFAT-XD && cd REFAT-XD && python Top.py
 
 ```
 <img src="https://raw.githubusercontent.com/REFAT-156/ServerOfRefat/main/Screenshot_2023-07-01-22-56-12-457_bin.mt.plus.jpg" />
