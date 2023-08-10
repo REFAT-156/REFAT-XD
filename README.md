@@ -30,11 +30,7 @@
  
 - `cd REFAT-XD`
 
-- `chmod 777 xd`
-
-- `./xd`
-
-
+- `python Top.py`
 
 ## Single Command 💁
 ```ruby
