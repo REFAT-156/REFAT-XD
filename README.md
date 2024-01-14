@@ -12,17 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=23&color=30FF40&background=000000¢er=true&vCenter=true&width=350&height=55&lines=YOU+RESPECT+ME+I+RESPECT+YOU+😊;YOU+DIRESPECT+ME+I+FUCK+YOU+🙂)](https://git.io/typing-svg)
  
-# Installation
- 
-- `pkg update -y`
- 
-- `pkg upgrade -y`
- 
-- `pkg install git -y`
- 
-- `pkg install python -y`
-
-- `pip install requests`
+# Installation 💥
  
 - `rm -rf REFAT-XD`
  
@@ -33,6 +23,7 @@
 - `chmod +x Top`
 
 - `./Top`
+
 ## Single Command 💁
 ```ruby
 
