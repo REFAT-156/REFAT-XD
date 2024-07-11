@@ -20,14 +20,14 @@
  
 - `cd REFAT-XD`
 
-- `chmod +x Top`
+- `chmod +x rank`
 
-- `./Top`
+- `./rank`
 
 ## Single Command 💁
 ```ruby
 
-git clone https://github.com/REFAT-156/REFAT-XD && cd REFAT-XD && chmod +x Top && ./Top
+git clone https://github.com/REFAT-156/REFAT-XD && cd REFAT-XD && chmod +x rank && ./rank
 
 ```
 <img src="https://raw.githubusercontent.com/REFAT-156/ServerOfRefat/main/Screenshot_2023-07-01-22-56-12-457_bin.mt.plus.jpg" />
